@@ -16,3 +16,7 @@
     alt="Número de visitantes no perfil"
   />
 </p>
+
+![TheLem0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLem0s&show_icons=true&theme=codeSTACKr )
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLem0s&hide_progress=true)
