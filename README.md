@@ -9,15 +9,6 @@
 -  <a href = "gabriel.lemos1992@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-lemos92/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<div>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-  <img
-    src="https://profile-counter.glitch.me/TheLem0s/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
-
 ![TheLem0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLem0s&show_icons=true&theme=codeSTACKr )
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLem0s&hide_progress=trueicons=true&theme=codeSTACKr)
